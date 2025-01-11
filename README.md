@@ -27,3 +27,6 @@ Emu8086 programındaki sanal giriş portu (Simple) dan yapılacak 1-10 arasında
 portu (LED_Display) kullanarak ilgili DoubleWord sayının parity bilgisi kullanıcıya yansıtılmak
 isteniyor. Örn. bellekte ilk DoubleWord olarak 33310013H olduğu durumda ekran görüntüsü yukarıdaki gibi
 olmalıdır.
+
+## Çözümleri Hazırlayan
+- **Eren Köse** - 22360859075 - Bursa Teknik Üniversitesi Bilgisayar Mühendisliği 3.Sınıf Öğrencisi
