@@ -3,7 +3,7 @@ Mikroişlemciler dersi için yazmış olduğum 8086 Assembly örnekleri
 
 ## Example 1
 Bellekte kendi belirlediğiniz bir alana 10 tane birer byte’lık rastgele işaretsiz sayı
-yerleştirip bunları küçükten büyüye sıralayıp yine aynı bellek bölgesinde
+yerleştirip bunları küçükten büyüğe sıralayıp yine aynı bellek bölgesinde
 saklayan programı Assembly dilinde yazınız. Selection Sort algoritması önerilir.
 
 ## Example 2
